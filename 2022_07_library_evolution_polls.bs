@@ -1,0 +1,249 @@
+<pre class='metadata'>
+Title: 2022-07 Library Evolution Polls
+Shortname: D2610
+Revision: 0
+Status: D
+Group: WG21
+Audience: WG21
+Editor: Bryce Adelstein Lelbach (he/him/his) — Library Evolution Chair, NVIDIA, brycelelbach@gmail.com
+URL: https://wg21.link/P2610
+!Source: <a href="https://github.com/brycelelbach/wg21_p2610_2022_07_library_evolution_polls/blob/main/2022_07_library_evolution_polls.bs">GitHub</a>
+Issue Tracking: GitHub https://github.com/brycelelbach/wg21_p2610_2022_07_library_evolution_polls/issues
+Metadata Order: Editor, Source, Issue Tracking, Project, Audience
+Markup Shorthands: markdown yes
+Toggle Diffs: no
+No Abstract: yes
+Boilerplate: style-syntax-highlighting off
+Default Biblio Display: direct
+</pre>
+
+# Introduction # {#introduction}
+
+This paper contains the decision polls that the C++ Library Evolution group
+  will take in 2022-07.
+
+# Voting # {#voting}
+
+These decision polls will be conducted electronically; see [[P2195R2]] for
+  more information on electronic voting procedures.
+
+All committee members may vote, but if you have not participated in the Library
+  Evolution discussions of a poll, please choose to not vote.
+
+## How to Vote ## {#how-to-vote}
+
+<b><a href="TODO">Vote here (C++23 polls).</a></b>
+
+<b><a href="TODO">Vote here (C++26 and Technical Specification polls).</a></b>
+
+A documents.isocpp.org account is necessary to vote.
+If you have an isocpp.org/papers account, a documents.isocpp.org account has
+  been created for you.
+Just go to documents.isocpp.org and reset your password.
+Email <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a> if you
+  do not have an account or are having trouble accessing your account.
+
+If you see "Form not found" when you go to the above link, you are not signed
+  in to documents.isocpp.org.
+Go to documents.isocpp.org and sign in first.
+
+You will not receive a confirmation email after voting.
+The Library Evolution chairs will send a confirmation to all voters before the
+  close of the poll.
+
+If you need to change how you voted or have any questions or issues about
+  voting, please email
+  <a href="mailto:brycelelbach@gmail.com">Bryce Adelstein Lelbach</a>.
+
+## Voting Timeline ## {#voting-timeline}
+
+- 2022-06-19: Draft polls distributed by mailing list.
+- 2022-06-28: Final Library Evolution discussion telecon on the polls.
+- 2022-06-29: Start of the polling period.
+- 2022-07-19: End of the polling period.
+- 2021-07-22: Chairs share results and summarize outcomes.
+
+# Poll Structure # {#poll-structure}
+
+Each poll consists of a statement; you vote on whether you support the
+  statement.
+All polls will be 5-way polls; you'll vote either "strongly favor",
+  "weakly favor", "neutral", "weakly against", or "strongly against".
+
+Polls phrased as "Return X" indicate that the paper was sent to Library Working
+  Group in the past, and Libary Working Group returned it to us with
+  questions.
+Polls phrased as "Send X" indicate that the paper has not previously been sent
+  to Library Working Group.
+
+All committee members may vote, but if you have not participated in the
+  Library Evolution discussions of a poll (in-person, over telecon, or
+  over email), please consider whether you sufficiently understand the
+  topic to be able to vote in an informed manner.
+If you do not, please choose to not participate in the poll.
+
+If you do not want to participate in a poll, select the "I do not want to
+  participate in this poll" option.
+Those who do not participate in a poll will not be counted or recorded.
+Voting neutral is not the same as choosing to not participate; please
+  don't vote neutral if you did not participate in the discussions of
+  the poll.
+
+Each poll has a comment field.
+Please write a few sentences explaining the rationale for your vote.
+We recommend drafting your comments in a text editor and then pasting them
+  into the polling system.
+
+Poll results and selected comments will be shared with Library Evolution after
+  the end of the polling period, including attribution of your votes and
+  comments.
+
+If you want to discuss the polls or how you plan on voting, please start an
+  email thread on the
+  <a href="lib-ext@lists.isocpp.org">Library Evolution mailing list</a>.
+
+You will not receive a confirmation email after voting.
+
+If you need to see how you voted, change how you voted, or have any questions
+  or issues about voting, please contact the Library Evolution chair.
+
+## C++23 Polls ## {#polls-cpp23}
+
+### [[P0429R9]] `flat_map`
+
+Return
+  [[P0429R9]] `flat_map`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P1222R4]] `flat_set`
+
+Return
+  [[P1222R4]] `flat_set`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2585R0]] Improving Default Container Formatting
+
+Send
+  [[P2585R0]] Improving Default Container Formatting
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### [[P2472R3]] `make_function_ref`
+
+Send
+  [[P2472R3]] `make_function_ref`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2505R4]] Monadic Functions For `expected`
+
+Send
+  [[P2505R4]] Monadic Functions For `expected`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2446R2]] `views::as_rvalue`
+
+Send
+  [[P2446R2]] `views::as_rvalue`
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2278R3]] `cbegin` Should Always Return A Constant Iterator
+
+Send
+  [[P2278R3]] `cbegin` Should Always Return A Constant Iterator
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2539R1]] Terminal `print` Synchronization
+
+Send
+  [[P2539R1]] Terminal `print` Synchronization
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2510R3]] Formatting Pointers
+
+Send
+  [[P2510R3]] Formatting Pointers
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2551R2]] Clarify Intent Of Individually Specializable Numeric Traits
+
+Send
+  [[P2551R2]] Clarify Intent Of Individually Specializable Numeric Traits
+  to Library Working Group for C++23,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+## C++26 and Technical Specification Polls ## {#polls-cpp26-and-ts}
+
+### [[P2338R2]] Freestanding Library: Character Primitives And The C Library
+
+Send
+  [[P2338R2]] Freestanding Library: Character Primitives And The C Library
+  to Library Working Group for C++26,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### [[P2407R1]] Freestanding Library: Partial Classes
+
+Send
+  [[P2407R1]] Freestanding Library: Partial Classes
+  to Library Working Group for C++26,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
+### [[P2562R1]] `constexpr` Stable Sorting
+
+Send
+  [[P2562R1]] `constexpr` Stable Sorting
+  to Library Working Group for C++26,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2283R2]] `constexpr` Specialized Memory Algorithms
+
+Send
+  [[P2283R2]] `constexpr` Specialized Memory Algorithms
+  to Library Working Group for C++26,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
+
+
+<pre class=biblio>
+{
+  "P0429R9": {
+    "title": "A standard flat_map",
+    "authors": [
+      "Zach Laine"
+    ],
+    "href": "https://wg21.link/P0429R9",
+    "date": "2022-06-17"
+  },
+  "P1222R4": {
+    "title": "A standard flat_set",
+    "authors": [
+      "Zach Laine"
+    ],
+    "href": "https://wg21.link/P1222R4",
+    "date": "2022-06-13"
+  },
+  "P2505R4": {
+    "title": "Monadic Functions for std::expected",
+    "authors": [
+      "Jeff Garland"
+    ],
+    "href": "https://wg21.link/P2505R4",
+    "date": "2022-06-17"
+  },
+  "P2562R1": {
+    "title": "constexpr Stable Sorting",
+    "authors": [
+      "Oliver J. Rosten"
+    ],
+    "href": "https://wg21.link/P2562R1",
+    "date": "2022-06-14"
+  }
+}
+</pre>
