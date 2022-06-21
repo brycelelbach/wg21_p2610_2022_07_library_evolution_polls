@@ -151,10 +151,10 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-### [[P2278R3]] `cbegin` Should Always Return A Constant Iterator
+### [[P2278R4]] `cbegin` Should Always Return A Constant Iterator
 
 Send
-  [[P2278R3]] `cbegin` Should Always Return A Constant Iterator
+  [[P2278R4]] `cbegin` Should Always Return A Constant Iterator
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
