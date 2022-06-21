@@ -123,17 +123,10 @@ Return
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-### [[P2585R0]] Improving Default Container Formatting
+### [[P0792R10]] `function_ref`
 
-Send
-  [[P2585R0]] Improving Default Container Formatting
-  to Library Working Group for C++23,
-  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
-
-### [[P2472R3]] `make_function_ref`
-
-Send
-  [[P2472R3]] `make_function_ref`
+Return
+  [[P0792R10]] `function_ref`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
@@ -143,6 +136,13 @@ Send
   [[P2505R4]] Monadic Functions For `expected`
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2585R0]] Improving Default Container Formatting
+
+Send
+  [[P2585R0]] Improving Default Container Formatting
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
 ### [[P2446R2]] `views::as_rvalue`
 
@@ -158,10 +158,10 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-### [[P2539R1]] Terminal `print` Synchronization
+### [[P2539R1]] Should The Output Of `print` To A Terminal Be Synchronized With The Underlying Stream?
 
 Send
-  [[P2539R1]] Terminal `print` Synchronization
+  [[P2539R1]] Should The Output Of `print` To A Terminal Be Synchronized With The Underlying Stream?
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
@@ -227,6 +227,16 @@ Send
       "Zach Laine"
     ],
     "href": "https://wg21.link/P1222R4",
+    "date": "2022-06-13"
+  },
+  "P0792R10": {
+    "title": "function_ref: a type-erased callable reference",
+    "authors": [
+      "Vittorio Romeo",
+      "Zhihao Yuan",
+      "Jarrad Waterloo"
+    ],
+    "href": "https://wg21.link/P0792R10",
     "date": "2022-06-13"
   },
   "P2505R4": {
