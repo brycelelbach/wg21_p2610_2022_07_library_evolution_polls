@@ -209,6 +209,13 @@ Send
   to Library Working Group for C++26,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
+### [[P2542R2]] `views::concat`
+
+Send
+  [[P2542R2]] `views::concat`
+  to Library Working Group for C++26,
+  classified as an addition ([[P0592R4]] bucket 3 item).
+
 
 
 <pre class=biblio>
