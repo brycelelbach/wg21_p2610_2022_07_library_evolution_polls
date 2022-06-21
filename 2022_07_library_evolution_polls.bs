@@ -268,6 +268,14 @@ Send
     "href": "https://wg21.link/P2505R4",
     "date": "2022-06-17"
   },
+  "P2278R4": {
+    "title": "cbegin should always return a constant iterator",
+    "authors": [
+      "Barry Revzin"
+    ],
+    "href": "https://wg21.link/P2278R4",
+    "date": "2022-06-17"
+  },
   "P2604R0": {
     "title": "mdspan: rename pointer and contiguous",
     "authors": [
