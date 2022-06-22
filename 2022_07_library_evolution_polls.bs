@@ -276,6 +276,14 @@ Send
     "href": "https://wg21.link/P2278R4",
     "date": "2022-06-17"
   },
+  "P2551R2": {
+    "title": "Clarify intent of P1841 numeric traits",
+    "authors": [
+      "Matthias Kretz"
+    ],
+    "href": "https://wg21.link/P2551R2",
+    "date": "2022-06-22"
+  },
   "P2604R0": {
     "title": "mdspan: rename pointer and contiguous",
     "authors": [
