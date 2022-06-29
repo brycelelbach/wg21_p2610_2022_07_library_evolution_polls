@@ -158,6 +158,13 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
+### [[P2248R5]] Enabling List-Initialization For Algorithms
+
+Send
+  [[P2248R5]] Enabling List-Initialization For Algorithms
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
 ### [[P2539R1]] Should The Output Of `print` To A Terminal Be Synchronized With The Underlying Stream?
 
 Send
@@ -282,6 +289,14 @@ Send
     ],
     "href": "https://wg21.link/P2278R4",
     "date": "2022-06-17"
+  },
+  "P2248R5": {
+    "title": "Enabling list-initialization for algorithms",
+    "authors": [
+      "Giuseppe D'Angelo"
+    ],
+    "href": "https://wg21.link/P2248R5",
+    "date": "2022-06-28"
   },
   "P2551R2": {
     "title": "Clarify intent of P1841 numeric traits",
