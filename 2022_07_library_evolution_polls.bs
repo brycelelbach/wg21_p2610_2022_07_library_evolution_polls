@@ -186,10 +186,10 @@ Send
   to Library Working Group for C++23,
   classified as an addition ([[P0592R4]] bucket 3 item).
 
-### [[P2599R2]] `mdspan::size_type` Should Be `index_type`
+### [[P2599R2]] `index_type` & `size_type` In `mdspan`
 
 Send
-  [[P2599R2]] `mdspan::size_type` Should Be `index_type`
+  [[P2599R2]] `index_type` & `size_type` In `mdspan`
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
