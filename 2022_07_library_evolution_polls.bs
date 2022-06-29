@@ -228,14 +228,14 @@ Send
 Send
   [[P2562R1]] `constexpr` Stable Sorting
   to Library Working Group for C++26,
-  classified as an addition ([[P0592R4]] bucket 3 item).
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
 ### [[P2283R2]] `constexpr` Specialized Memory Algorithms
 
 Send
   [[P2283R2]] `constexpr` Specialized Memory Algorithms
   to Library Working Group for C++26,
-  classified as an addition ([[P0592R4]] bucket 3 item).
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
 ### [[P2542R2]] `views::concat`
 
@@ -243,6 +243,13 @@ Send
   [[P2542R2]] `views::concat`
   to Library Working Group for C++26,
   classified as an addition ([[P0592R4]] bucket 3 item).
+
+### [[P2609R1]] Relaxing Ranges Just A Smidge
+
+Send
+  [[P2609R1]] Relaxing Ranges Just A Smidge
+  to Library Working Group for C++26,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
 
 
@@ -329,6 +336,14 @@ Send
     ],
     "href": "https://wg21.link/P2562R1",
     "date": "2022-06-14"
+  },
+  "P2609R1": {
+    "title": "Relaxing Ranges Just A Smidge",
+    "authors": [
+      "John Eivind Helset"
+    ],
+    "href": "https://wg21.link/P2609R1",
+    "date": "2022-06-29"
   }
 }
 </pre>
