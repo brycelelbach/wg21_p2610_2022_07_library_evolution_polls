@@ -193,6 +193,13 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
+### [[P2613R1]]: Add The Missing `empty  To `mdspan`
+
+Send
+  [[P2613R1]]: Add The Missing `empty  To `mdspan`
+  to Library Working Group for C++23,
+  classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
+
 ## C++26 and Technical Specification Polls ## {#polls-cpp26-and-ts}
 
 ### [[P2338R2]] Freestanding Library: Character Primitives And The C Library
@@ -291,6 +298,14 @@ Send
     ],
     "href": "https://wg21.link/P2604R0",
     "date": "2022-06-15"
+  },
+  "P2613R1": {
+    "title": "Add the missing empty to mdspans",
+    "authors": [
+      "Yihe Li"
+    ],
+    "href": "https://wg21.link/P2613R1",
+    "date": "2022-06-25"
   },
   "P2562R1": {
     "title": "constexpr Stable Sorting",
