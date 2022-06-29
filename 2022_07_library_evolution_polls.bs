@@ -200,10 +200,10 @@ Send
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
-### [[P2613R1]]: Add The Missing `empty  To `mdspan`
+### [[P2613R1]]: Add The Missing `empty`  To `mdspan`
 
 Send
-  [[P2613R1]]: Add The Missing `empty  To `mdspan`
+  [[P2613R1]]: Add The Missing `empty`  To `mdspan`
   to Library Working Group for C++23,
   classified as an improvement of an existing feature ([[P0592R4]] bucket 2 item).
 
