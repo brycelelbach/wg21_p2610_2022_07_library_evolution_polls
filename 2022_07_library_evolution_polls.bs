@@ -61,7 +61,7 @@ If you need to change how you voted or have any questions or issues about
 - 2022-06-28: Final Library Evolution discussion telecon on the polls.
 - 2022-06-29: Start of the polling period.
 - 2022-07-19: End of the polling period.
-- 2021-07-22: Chairs share results and summarize outcomes.
+- 2022-07-22: Chairs share results and summarize outcomes.
 
 # Poll Structure # {#poll-structure}
 
